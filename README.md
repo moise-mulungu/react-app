@@ -24,7 +24,7 @@ This is a todo list build with react, where users can add, remove, mark, unmark 
 
 [github page](https://github.com/moise-mulungu/react-app)
 
-[live demo](https://moise-mulungu.github.io/react-app/dist/)
+[live demo](https://moise-mulungu.github.io/react-app/)
 
 ## Getting Started
 
