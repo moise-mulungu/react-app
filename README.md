@@ -49,7 +49,7 @@ Run `npm start` to open the live server
 
 - GitHub: [Moise Mulungu](https://github.com/moise-mulungu)
 - Twitter: [Moise Mulungu](https://twitter.com/moise_mulungu)
-- LinkedIn: [Moise Mulungu](https://www.linkedin.com/in/mo%C3%AFse-mulungu-a939831b2/)
+- LinkedIn: [Moise Mulungu](https://www.linkedin.com/in/moisemulungu/)
 
 ## 🤝 Contributing
 
